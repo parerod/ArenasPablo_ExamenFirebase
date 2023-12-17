@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594344327764",
+    "project_id": "examenfirebase-a6c13",
+    "storage_bucket": "examenfirebase-a6c13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594344327764:android:2ab5c8c3b044dbc04dcbc1",
+        "android_client_info": {
+          "package_name": "com.example.arenaspablo_examenfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDz4EU9tstQWyFVTEFE-ZHM_sUhdDi40A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
